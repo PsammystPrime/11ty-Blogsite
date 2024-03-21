@@ -1,9 +1,9 @@
 ---
-title: My Fifth Article
+title: Getting The Best Audience For Your Technical Content.
 author: Samuel Njuguna
-date: 2021-06-15
+date: 2024-02-08
 tags: ["post", "featured"]
-image: /assets/blog/article-5.jpg
+image: /assets/blog/writing.png
 imageAlt: This is a test
 description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis accusantium sit illo neque rem omnis quaerat, nam similique vitae delectus ad magni vel quo maxime, magnam placeat. Reprehenderit, distinctio aliquam?
 ---

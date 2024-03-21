@@ -1,9 +1,9 @@
 ---
-title: My Second Article
+title: Mobile Apps vs Web Apps; Which one to build and why
 author: Samuel Njuguna
-date: 2021-05-15
-tags: ["post", "featured"]
-image: /assets/blog/article-2.jpg
+date: 2023-10-16
+tags: ["post",]
+image: /assets/blog/comps.jpg
 imageAlt: This is a test
 description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis accusantium sit illo neque rem omnis quaerat, nam similique vitae delectus ad magni vel quo maxime, magnam placeat. Reprehenderit, distinctio aliquam?
 ---
